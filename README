@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2034
+
+This is high contrast colorscheme. Not advisable during night.
+ Dark background and used lot of colors mostly yellow and light blue shades.
+ Only for console version which supports 256 colors.
+ Please make sure to set t_Co=256 before calling the colorscheme.
+  
